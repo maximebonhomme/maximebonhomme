@@ -1,4 +1,4 @@
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Currently working on web3 projects:
 * [Kinetic Spectrums](https://kineticspectru.ms) - 100% onchain generated Spectrums
@@ -7,4 +7,4 @@ Currently working on web3 projects:
 * [Nostrum Systems](https://twitter.com/nostrumsystems) - 111 Pills to improve your wallet health
 * [Throws](https://throws.xyz/) - more info soon
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
