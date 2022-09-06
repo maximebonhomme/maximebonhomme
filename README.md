@@ -5,6 +5,6 @@ Currently working on web3 projects:
   * [Website repo](https://github.com/untitled-family/spectrum-website)
   * [Smart Contract repo](https://github.com/untitled-family/spectrum-contract)
 * [Tamiko](https://twitter.com/hellotamiko) - 100% on chain friends that you can hatch, feed, breed and evolve. 
-  * [Monorepo](https://github.com/untitled-family/tamiko-monorepo)
+  * [Monorepo](https://github.com/untitled-family/tamiko-monorepo/tree/develop)
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
